@@ -1,0 +1,19 @@
+{
+  "baseUrl": "http://lojaebac.ebaconline.art.br/",
+  "reporterOptions": {
+    "endpoint": "https://demo.reportportal.io/api/v1",
+    "apiKey": "new_f92e3u_XT16xvJhbPPHq-_ZXa928smADHB-UiX7g2GE-kXfuDo-C_rpU82KLoeBV",
+    "launch": "Testes Cypress",
+    "project": "lewiz-qa_personal",
+    "description": "Testes EBAC com ReportPortal",
+    "attributes": [
+      {
+        "key": "new",
+        "value": "new_f92e3u_XT16xvJhbPPHq-_ZXa928smADHB-UiX7g2GE-kXfuDo-C_rpU82KLoeBV"
+      },
+      {
+        "value": "new_f92e3u_XT16xvJhbPPHq-_ZXa928smADHB-UiX7g2GE-kXfuDo-C_rpU82KLoeBV"
+      }
+    ]
+  }
+}
